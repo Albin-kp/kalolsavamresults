@@ -55306,7 +55306,7 @@ A.zL.prototype={
 X(a){var s=null
 return new A.qR(B.DB,"MJSSA Results",A.a5R(s,s,"Poppins",B.BE,s),!1,s)}}
 A.rV.prototype={
-am(){return new A.Hd([],A.u(t.N,t.S),A.ajb(),A.a(["Ernakulam","Thrissur","Pallikkara","Kizhakkambalam","Aluva","Perumbavoor"],t.s))}}
+am(){return new A.Hd([],A.u(t.N,t.S),A.ajb(),A.a(["Pallikkara","Aluva","Paravoor","Aazhakam","Pukkattupady","Angamaly"],t.s))}}
 A.Hd.prototype={
 az(){var s=this
 s.b3()
